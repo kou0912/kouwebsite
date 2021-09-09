@@ -93,6 +93,10 @@ li{
     width: 31%;
 }
 
+#Works a:hover{
+    opacity: 0.7;
+}
+
 #Works img{
     cursor: pointer;
 }
